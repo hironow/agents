@@ -1,5 +1,17 @@
 # livekit-agents
 
+## 0.12.0
+
+### Minor Changes
+
+- sync the Realtime API converstation items and add set_chat_ctx - [#1015](https://github.com/livekit/agents/pull/1015) ([@longcw](https://github.com/longcw))
+
+### Patch Changes
+
+- Fix interrupt_min_words handling - [#1062](https://github.com/livekit/agents/pull/1062) ([@davidzhao](https://github.com/davidzhao))
+
+- added metrics for idle time - [#1064](https://github.com/livekit/agents/pull/1064) ([@jayeshp19](https://github.com/jayeshp19))
+
 ## 0.11.1
 
 ### Patch Changes
