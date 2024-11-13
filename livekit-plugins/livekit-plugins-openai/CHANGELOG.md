@@ -1,5 +1,15 @@
 # livekit-plugins-openai
 
+## 0.11.0
+
+### Minor Changes
+
+- sync the Realtime API converstation items and add set_chat_ctx - [#1015](https://github.com/livekit/agents/pull/1015) ([@longcw](https://github.com/longcw))
+
+### Patch Changes
+
+- Expose usage metrics for Realtime model - [#1036](https://github.com/livekit/agents/pull/1036) ([@yuyuma](https://github.com/yuyuma))
+
 ## 0.10.5
 
 ### Patch Changes
