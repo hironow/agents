@@ -1,5 +1,11 @@
 # livekit-plugins-eou
 
+## 0.3.3
+
+### Patch Changes
+
+- use quantized onnx version of turn detector model - [#1231](https://github.com/livekit/agents/pull/1231) ([@jeradf](https://github.com/jeradf))
+
 ## 0.3.2
 
 ### Patch Changes
